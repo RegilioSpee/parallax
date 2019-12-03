@@ -36,7 +36,7 @@ const corrSection4 = gescrolled => {
 };
 
 const corrSection6 = gescrolled => {
-  sectie6.style.backgroundPositionY = +500 - gescrolled / 2 + "px";
+  sectie6.style.backgroundPositionY = +300 - gescrolled / 2 + "px";
 };
 
 const verwijderClassKop = () => {
